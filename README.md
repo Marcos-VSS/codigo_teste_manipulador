@@ -1,5 +1,5 @@
 # codigo_teste_manipulador #
-\Esse código deve ser compilado no PlatformIO
+Esse código deve ser compilado no PlatformIO\
 \É necessário importar a biblioteca "Servo" (by Michael Margolis) para que ele funcione
 \Para fazer os motores de passo funcionarem, utilize a função setpTo, fazendo com um dos motores ou os dois motores andem x passos em uma certa direção com uma certa velocidade
 \O formato é **stepTo(int steps, bool direction, int time, int motor)**, onde:
