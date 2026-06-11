@@ -9,6 +9,8 @@
 
 Servo servo;
 
+void stepTo(int steps, bool direction, int time, int motor);
+
 void setup() {
   pinMode(stepPin1, OUTPUT);
   pinMode(dirPin1, OUTPUT);
